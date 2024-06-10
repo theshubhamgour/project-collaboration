@@ -1,0 +1,57 @@
+### Loops
+
+#### Basic
+1. **What will be the output of the following code?**
+   ```python
+   for i in range(3):
+       print(i)
+   ```
+2. **Write a Python program to print numbers from 1 to 5 using a while loop.**
+3. **What is the output of this code?**
+   ```python
+   for char in "Python":
+       print(char)
+   ```
+4. **Write a Python program to print the first 10 natural numbers using a for loop.**
+5. **Create a program to print the elements of a list using a while loop.**
+6. **What will the following code print?**
+   ```python
+   n = 5
+   while n > 0:
+       print(n)
+       n -= 1
+   ```
+7. **Write a for loop to print all elements of the list `[10, 20, 30, 40, 50]`.**
+8. **What is the output of this code?**
+   ```python
+   i = 1
+   while i <= 3:
+       print(i)
+       i += 1
+   ```
+9. **Write a Python program to print the squares of numbers from 1 to 5 using a for loop.**
+10. **What does this code do?**
+    ```python
+    for i in range(5, 0, -1):
+        print(i)
+    ```
+
+#### Intermediate
+1. **Write a Python program to find the sum of all even numbers from 1 to 100 using a loop.**
+2. **Create a program that prints the multiplication table of a given number using a for loop.**
+3. **Write a code to find the GCD (Greatest Common Divisor) of two numbers using a loop.**
+4. **Using a nested loop, write a program to print a pattern like this:**
+
+
+ ```
+   1
+   12
+   123
+   1234
+   ```
+5. **Write a Python program to count the number of digits in a given number using a while loop.**
+6. **Create a program to reverse the elements of a list using a loop.**
+7. **Write a code to find the sum of the digits of a number using a while loop.**
+8. **Using a loop, write a program to find the second largest number in a list.**
+9. **Create a Python program to print all prime numbers up to 100 using a loop.**
+10. **Write a Python script to remove all vowels from a string using a loop.**

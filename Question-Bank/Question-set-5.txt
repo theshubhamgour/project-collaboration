@@ -1,0 +1,25 @@
+### Functions
+
+#### Basic
+1. **Write a function `greet(name)` that prints "Hello, `name`!".**
+2. **Create a function `add(a, b)` that returns the sum of two numbers.**
+3. **Define a function `square(x)` that returns the square of a number.**
+4. **Write a function `is_even(n)` that returns `True` if `n` is even, otherwise `False`.**
+5. **Create a function `multiply(a, b)` that multiplies two numbers and returns the result.**
+6. **Define a function `print_list(lst)` that prints each element of the list `lst`.**
+7. **Write a function `is_positive(num)` to check if a number is positive.**
+8. **Create a function `max_of_two(a, b)` that returns the larger of two numbers.**
+9. **Define a function `say_hello()` that prints "Hello, World!".**
+10. **Write a function `count_vowels(s)` that returns the number of vowels in the string `s`.**
+
+#### Intermediate
+1. **Create a function `factorial(n)` that returns the factorial of `n`.**
+2. **Write a function `is_prime(n)` that checks if a number is prime.**
+3. **Define a function `reverse_string(s)` that returns the reverse of the string `s`.**
+4. **Write a function `find_max(lst)` that returns the maximum element in a list.**
+5. **Create a function `sum_of_squares(lst)` that returns the sum of squares of elements in the list `lst`.**
+6. **Write a function `merge_dicts(d1, d2)` that merges two dictionaries into one.**
+7. **Define a function `fibonacci(n)` that returns the first `n` numbers in the Fibonacci sequence.**
+8. **Create a function `filter_even(lst)` that returns a list of even numbers from the list `lst`.**
+9. **Write a function `count_occurrences(s, ch)` that counts the occurrences of character `ch` in string `s`.**
+10. **Define a function `flatten_list(lst)` that takes a list of lists and returns a single flattened list.**

@@ -1,0 +1,29 @@
+### Non-Primitive-Datatypes
+
+#### Basic
+1. **What is a list in Python? Give an example.**
+2. **How do you create a dictionary in Python? Provide a simple example.**
+3. **What is the difference between a tuple and a list in Python?**
+4. **Write a code snippet to create a set with elements 1, 2, and 3.**
+5. **How can you add an element to a list? Provide an example.**
+6. **Write a Python code to access the value associated with the key `"name"` in the dictionary `{"name": "Alice", "age": 30}`.**
+7. **What is the output of this code?**
+   ```python
+   lst = [10, 20, 30]
+   print(lst[1])
+   ```
+8. **How do you change the value of an element in a list at a specific index? Provide an example.**
+9. **Create a tuple with the elements `"apple"`, `"banana"`, and `"cherry"`.**
+10. **Write a Python code to check if the value `"apple"` is in the list `["apple", "banana", "cherry"]`.**
+
+#### Intermediate
+1. **Write a Python function to find the length of a list without using the `len()` function.**
+2. **Create a function that returns the keys of a dictionary sorted in ascending order.**
+3. **Write a code snippet to remove duplicate elements from a list.**
+4. **Create a Python program to merge two dictionaries.**
+5. **Write a function to sort a list of tuples based on the second element of each tuple.**
+6. **Create a function to check if all elements in a list are unique.**
+7. **Write a Python function to find the intersection of two sets.**
+8. **Create a function to count the number of occurrences of each element in a list and return a dictionary.**
+9. **Write a Python code to flatten a nested list of arbitrary depth.**
+10. **Create a function to convert a list of key-value pairs into a dictionary.**

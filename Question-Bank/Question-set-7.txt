@@ -1,0 +1,53 @@
+### Conditions
+
+#### Basic
+1. **What will be the output of the following code?**
+   ```python
+   x = 5
+   if x > 3:
+       print("Greater")
+   else:
+       print("Smaller")
+   ```
+2. **Write a Python program to check if a number is positive, negative, or zero.**
+3. **Given a variable `age`, write a condition to check if `age` is greater than or equal to 18.**
+4. **What is the output of this code?**
+   ```python
+   x = 10
+   if x < 10:
+       print("Less than 10")
+   elif x == 10:
+       print("Equal to 10")
+   else:
+       print("Greater than 10")
+   ```
+5. **Write a Python code to check if a given year is a leap year.**
+6. **What will be printed by the following code?**
+   ```python
+   name = "Alice"
+   if name == "Alice":
+       print("Hello Alice")
+   ```
+7. **Given two numbers `a` and `b`, write a Python script to find the maximum of the two using conditional statements.**
+8. **What does the following code print?**
+   ```python
+   num = 7
+   if num % 2 == 0:
+       print("Even")
+   else:
+       print("Odd")
+   ```
+9. **Write a condition to check if a variable `temperature` is between 20 and 30 (inclusive).**
+10. **Given `score = 85`, write a condition to print "Pass" if the score is 50 or more, otherwise print "Fail".**
+
+#### Intermediate
+1. **Write a Python program to check if a number is within 10 of 100 or 200.**
+2. **Create a program that checks if a string is a palindrome (reads the same backward as forward).**
+3. **Given a list of integers, write a Python code to check if all numbers are positive.**
+4. **Write a program to categorize a person based on age: "Child" (0-12), "Teenager" (13-19), "Adult" (20-64), "Senior" (65+).**
+5. **Check if a given number is a prime number.**
+6. **Write a Python function that takes a string as input and checks if it contains any uppercase characters.**
+7. **Given two strings, write a code to check if they are anagrams (contain the same characters in a different order).**
+8. **Create a Python program that takes three inputs and prints the largest.**
+9. **Write a code snippet to check if a list is sorted in ascending order.**
+10. **Given a dictionary, write a Python code to check if a particular key exists.**
