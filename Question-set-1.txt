@@ -1,0 +1,299 @@
+
+
+### Conditions
+
+#### Basic
+1. **What will be the output of the following code?**
+   ```python
+   x = 5
+   if x > 3:
+       print("Greater")
+   else:
+       print("Smaller")
+   ```
+2. **Write a Python program to check if a number is positive, negative, or zero.**
+3. **Given a variable `age`, write a condition to check if `age` is greater than or equal to 18.**
+4. **What is the output of this code?**
+   ```python
+   x = 10
+   if x < 10:
+       print("Less than 10")
+   elif x == 10:
+       print("Equal to 10")
+   else:
+       print("Greater than 10")
+   ```
+5. **Write a Python code to check if a given year is a leap year.**
+6. **What will be printed by the following code?**
+   ```python
+   name = "Alice"
+   if name == "Alice":
+       print("Hello Alice")
+   ```
+7. **Given two numbers `a` and `b`, write a Python script to find the maximum of the two using conditional statements.**
+8. **What does the following code print?**
+   ```python
+   num = 7
+   if num % 2 == 0:
+       print("Even")
+   else:
+       print("Odd")
+   ```
+9. **Write a condition to check if a variable `temperature` is between 20 and 30 (inclusive).**
+10. **Given `score = 85`, write a condition to print "Pass" if the score is 50 or more, otherwise print "Fail".**
+
+#### Intermediate
+1. **Write a Python program to check if a number is within 10 of 100 or 200.**
+2. **Create a program that checks if a string is a palindrome (reads the same backward as forward).**
+3. **Given a list of integers, write a Python code to check if all numbers are positive.**
+4. **Write a program to categorize a person based on age: "Child" (0-12), "Teenager" (13-19), "Adult" (20-64), "Senior" (65+).**
+5. **Check if a given number is a prime number.**
+6. **Write a Python function that takes a string as input and checks if it contains any uppercase characters.**
+7. **Given two strings, write a code to check if they are anagrams (contain the same characters in a different order).**
+8. **Create a Python program that takes three inputs and prints the largest.**
+9. **Write a code snippet to check if a list is sorted in ascending order.**
+10. **Given a dictionary, write a Python code to check if a particular key exists.**
+
+### Control-Flow
+
+#### Basic
+1. **What is the output of the following code?**
+   ```python
+   for i in range(5):
+       print(i)
+   ```
+2. **Write a Python code to print numbers from 1 to 10 using a for loop.**
+3. **What will the following code print?**
+   ```python
+   x = 0
+   while x < 3:
+       print(x)
+       x += 1
+   ```
+4. **Write a Python program to print each character in the string "Hello" using a for loop.**
+5. **What will be the output of this code?**
+   ```python
+   for x in [1, 2, 3]:
+       if x == 2:
+           break
+       print(x)
+   ```
+6. **Write a Python code to print all even numbers from 1 to 20 using a while loop.**
+7. **Given a list `[1, 2, 3, 4, 5]`, write a for loop to print each element.**
+8. **What will the following code print?**
+   ```python
+   for i in range(1, 6):
+       print(i, end=" ")
+   ```
+9. **Write a Python program to print the multiplication table of 5 using a for loop.**
+10. **What is the output of this code?**
+    ```python
+    i = 0
+    while i < 5:
+        print(i)
+        i += 2
+    ```
+
+#### Intermediate
+1. **Write a Python program to print all prime numbers between 1 and 50 using a for loop.**
+2. **Write a code to find the factorial of a given number using a while loop.**
+3. **Create a program that uses a loop to sum all integers from 1 to 100.**
+4. **Write a Python program that uses nested loops to print a pattern like this:**
+   ```
+   *
+   **
+   ***
+   ****
+   ```
+5. **What will be the output of the following code?**
+   ```python
+   for x in range(3):
+       for y in range(2):
+           print(x, y)
+   ```
+6. **Write a Python program to reverse a list using a for loop.**
+7. **Create a Python script to check if a number is a perfect number using a loop.**
+8. **Write a code that prints the Fibonacci series up to `n` terms using a while loop.**
+9. **Using a loop, write a program to find the largest number in a list.**
+10. **Write a Python program to print all the characters in a string except vowels using a for loop.**
+
+### Functions
+
+#### Basic
+1. **Write a function `greet(name)` that prints "Hello, `name`!".**
+2. **Create a function `add(a, b)` that returns the sum of two numbers.**
+3. **Define a function `square(x)` that returns the square of a number.**
+4. **Write a function `is_even(n)` that returns `True` if `n` is even, otherwise `False`.**
+5. **Create a function `multiply(a, b)` that multiplies two numbers and returns the result.**
+6. **Define a function `print_list(lst)` that prints each element of the list `lst`.**
+7. **Write a function `is_positive(num)` to check if a number is positive.**
+8. **Create a function `max_of_two(a, b)` that returns the larger of two numbers.**
+9. **Define a function `say_hello()` that prints "Hello, World!".**
+10. **Write a function `count_vowels(s)` that returns the number of vowels in the string `s`.**
+
+#### Intermediate
+1. **Create a function `factorial(n)` that returns the factorial of `n`.**
+2. **Write a function `is_prime(n)` that checks if a number is prime.**
+3. **Define a function `reverse_string(s)` that returns the reverse of the string `s`.**
+4. **Write a function `find_max(lst)` that returns the maximum element in a list.**
+5. **Create a function `sum_of_squares(lst)` that returns the sum of squares of elements in the list `lst`.**
+6. **Write a function `merge_dicts(d1, d2)` that merges two dictionaries into one.**
+7. **Define a function `fibonacci(n)` that returns the first `n` numbers in the Fibonacci sequence.**
+8. **Create a function `filter_even(lst)` that returns a list of even numbers from the list `lst`.**
+9. **Write a function `count_occurrences(s, ch)` that counts the occurrences of character `ch` in string `s`.**
+10. **Define a function `flatten_list(lst)` that takes a list of lists and returns a single flattened list.**
+
+### Loops
+
+#### Basic
+1. **What will be the output of the following code?**
+   ```python
+   for i in range(3):
+       print(i)
+   ```
+2. **Write a Python program to print numbers from 1 to 5 using a while loop.**
+3. **What is the output of this code?**
+   ```python
+   for char in "Python":
+       print(char)
+   ```
+4. **Write a Python program to print the first 10 natural numbers using a for loop.**
+5. **Create a program to print the elements of a list using a while loop.**
+6. **What will the following code print?**
+   ```python
+   n = 5
+   while n > 0:
+       print(n)
+       n -= 1
+   ```
+7. **Write a for loop to print all elements of the list `[10, 20, 30, 40, 50]`.**
+8. **What is the output of this code?**
+   ```python
+   i = 1
+   while i <= 3:
+       print(i)
+       i += 1
+   ```
+9. **Write a Python program to print the squares of numbers from 1 to 5 using a for loop.**
+10. **What does this code do?**
+    ```python
+    for i in range(5, 0, -1):
+        print(i)
+    ```
+
+#### Intermediate
+1. **Write a Python program to find the sum of all even numbers from 1 to 100 using a loop.**
+2. **Create a program that prints the multiplication table of a given number using a for loop.**
+3. **Write a code to find the GCD (Greatest Common Divisor) of two numbers using a loop.**
+4. **Using a nested loop, write a program to print a pattern like this:**
+  
+
+ ```
+   1
+   12
+   123
+   1234
+   ```
+5. **Write a Python program to count the number of digits in a given number using a while loop.**
+6. **Create a program to reverse the elements of a list using a loop.**
+7. **Write a code to find the sum of the digits of a number using a while loop.**
+8. **Using a loop, write a program to find the second largest number in a list.**
+9. **Create a Python program to print all prime numbers up to 100 using a loop.**
+10. **Write a Python script to remove all vowels from a string using a loop.**
+
+### Non-Primitive-Datatypes
+
+#### Basic
+1. **What is a list in Python? Give an example.**
+2. **How do you create a dictionary in Python? Provide a simple example.**
+3. **What is the difference between a tuple and a list in Python?**
+4. **Write a code snippet to create a set with elements 1, 2, and 3.**
+5. **How can you add an element to a list? Provide an example.**
+6. **Write a Python code to access the value associated with the key `"name"` in the dictionary `{"name": "Alice", "age": 30}`.**
+7. **What is the output of this code?**
+   ```python
+   lst = [10, 20, 30]
+   print(lst[1])
+   ```
+8. **How do you change the value of an element in a list at a specific index? Provide an example.**
+9. **Create a tuple with the elements `"apple"`, `"banana"`, and `"cherry"`.**
+10. **Write a Python code to check if the value `"apple"` is in the list `["apple", "banana", "cherry"]`.**
+
+#### Intermediate
+1. **Write a Python function to find the length of a list without using the `len()` function.**
+2. **Create a function that returns the keys of a dictionary sorted in ascending order.**
+3. **Write a code snippet to remove duplicate elements from a list.**
+4. **Create a Python program to merge two dictionaries.**
+5. **Write a function to sort a list of tuples based on the second element of each tuple.**
+6. **Create a function to check if all elements in a list are unique.**
+7. **Write a Python function to find the intersection of two sets.**
+8. **Create a function to count the number of occurrences of each element in a list and return a dictionary.**
+9. **Write a Python code to flatten a nested list of arbitrary depth.**
+10. **Create a function to convert a list of key-value pairs into a dictionary.**
+
+### Operators
+
+#### Basic
+1. **What will be the output of the following expression?**
+   ```python
+   10 + 5
+   ```
+2. **How do you use the modulo operator `%` in Python? Give an example.**
+3. **What does the following expression evaluate to?**
+   ```python
+   10 - 3
+   ```
+4. **Write a Python code to multiply two numbers and print the result.**
+5. **What will be the output of the expression `5 // 2`?**
+6. **How do you use the exponentiation operator `**` in Python? Provide an example.**
+7. **What does the expression `15 % 4` evaluate to?**
+8. **Write a Python code to check if two numbers are equal using the equality operator `==`.**
+9. **What is the result of the expression `3 * 4 + 2`?**
+10. **How do you perform integer division in Python? Provide an example.**
+
+#### Intermediate
+1. **Write a Python function to compute the power of a number using the `**` operator.**
+2. **Create a function to return the remainder of the division of two numbers.**
+3. **Write a code snippet to compare two strings lexicographically.**
+4. **Create a function to check if a number is divisible by another number.**
+5. **Write a Python code to swap the values of two variables using arithmetic operators.**
+6. **Create a function to count the number of bits set to 1 in the binary representation of an integer.**
+7. **Write a Python code to perform bitwise AND operation between two numbers.**
+8. **Create a function to find the maximum of three numbers using conditional operators.**
+9. **Write a Python code to round a floating-point number to the nearest integer using the `round()` function and arithmetic operations.**
+10. **Create a Python program to calculate the average of a list of numbers using arithmetic operators.**
+
+### Primitive-Datatypes
+
+#### Basic
+1. **What are the four main primitive data types in Python?**
+2. **How do you create a string in Python? Provide an example.**
+3. **What is the output of this code?**
+   ```python
+   print(type(10))
+   ```
+4. **Write a Python code to convert the integer `42` to a string.**
+5. **How do you create a floating-point number in Python? Give an example.**
+6. **What does the following code print?**
+   ```python
+   print(type("Hello"))
+   ```
+7. **Write a Python code to check if a number is of type float.**
+8. **How do you create a boolean value in Python? Provide an example.**
+9. **What is the output of the following expression?**
+   ```python
+   bool(0)
+   ```
+10. **Write a Python code to convert the string `"123"` to an integer.**
+
+#### Intermediate
+1. **Write a function to check if a variable is an instance of a specific data type (e.g., integer, float).**
+2. **Create a function to convert a string to uppercase without using the `upper()` method.**
+3. **Write a Python code to parse a string and extract all digits as an integer.**
+4. **Create a function to convert a float to an integer without using the `int()` function.**
+5. **Write a function that checks if a string can be converted to a number (integer or float).**
+6. **Create a function to format a number to two decimal places without using built-in functions.**
+7. **Write a Python function to reverse a string without using slicing.**
+8. **Create a function to find the length of a string without using the `len()` function.**
+9. **Write a code snippet to convert a list of strings to a single concatenated string.**
+10. **Create a function to check if a string contains only alphabetic characters.**
