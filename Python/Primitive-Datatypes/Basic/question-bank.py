@@ -13,9 +13,9 @@
 #    ```python
 #    print(type("Hello"))
 #    ```
-# 7. **Write a Python code to check if a number is of type float.**
+# 7. **Write a Python code to check if a number is of type float.**  <-------------->
 # 8. **How do you create a boolean value in Python? Provide an example.**
-# 9. **What is the output of the following expression?**
+# 9. **What is the output of the following expression?**  <-------------->
 #    ```python
 #    bool(0)
 #    ```
